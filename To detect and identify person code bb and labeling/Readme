@@ -1,0 +1,3 @@
+execute command:
+
+python fc_det.py mmod_human_face_detector.dat frame--2-14.jpg
