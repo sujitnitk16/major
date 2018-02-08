@@ -1,0 +1,4 @@
+img_resize.py file used for resize image after identidied and store in excel sheet to alignment.
+resize_image.py file is used for resize image (1024x1024) for detecting face.
+
+Recognizing threshold value 50% (Print rollno as identified person) otherwise show unknown person.
